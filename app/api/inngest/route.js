@@ -13,7 +13,7 @@ export const { GET, POST, PUT } = serve({
     syncUserCreation,
     syncUserDeletion,
     syncUserUpdation,
-    createUserOrder,
+    // createUserOrder,
     /* your functions will be passed here later! */
   ],
 });
